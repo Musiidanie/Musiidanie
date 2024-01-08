@@ -1,0 +1,11 @@
+#this is my python projext
+#the game of knowing
+k = inport("whats ur age daniel: ")
+def dan ;
+return if k ==7 :
+ print("ur age is still young to contue with \n programm bu lets start")
+elif k >8 :
+ print(" its good to go")
+else print (" try some thing else")
+print(" the game will becontued leter")
+ 
